@@ -34,11 +34,6 @@ I am an undergraduate student in **Computer Science and Robotics** at **Heriot-W
 
 ## GitHub activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=realyummy1&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=realyummy1&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realyummy1/realyummy1/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/realyummy1/realyummy1/output/github-contribution-grid-snake.svg" />
