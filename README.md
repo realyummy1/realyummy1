@@ -56,7 +56,15 @@ I focus on developing reliable learning algorithms and intelligent systems for d
 </details>
 
 ---
+### 🐍 Contribution Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realyummy1/realyummy1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/realyummy1/realyummy1/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake eating the contribution graph" src="https://raw.githubusercontent.com/realyummy1/realyummy1/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br>
 ## 🛠️ Tech Stack & Tooling
 
 <div align="left">
@@ -73,24 +81,14 @@ I focus on developing reliable learning algorithms and intelligent systems for d
 ---
 
 ## 📊 Dynamic Stats & Activity
-<div align="center">
+div align="center">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realyummy1&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Guanheng's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realyummy1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=realyummy1&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_rank=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realyummy1&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realyummy1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
+<sub><i>"Building reliable intelligent systems, one experiment and one round at a time."</i></sub>
+</div>
 
-### 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realyummy1/realyummy1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/realyummy1/realyummy1/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated snake eating the contribution graph" src="https://raw.githubusercontent.com/realyummy1/realyummy1/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br>
 <sub><i>"Building reliable intelligent systems, one experiment and one round at a time."</i></sub>
 
 </div>
