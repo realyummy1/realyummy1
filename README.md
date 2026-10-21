@@ -65,6 +65,9 @@ I focus on developing reliable learning algorithms and intelligent systems for d
 </picture>
 
 <br>
+
+---
+
 ## 🛠️ Tech Stack & Tooling
 
 <div align="left">
