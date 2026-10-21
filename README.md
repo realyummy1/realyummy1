@@ -20,24 +20,11 @@
 
 I am a third-year undergraduate pursuing dual degrees in **Computer Science** and **Robotics** at **Ocean University of China** and **Heriot-Watt University, Edinburgh**.
 
+I focus on developing reliable learning algorithms and intelligent systems for distributed, resource-constrained environments:
 - 🌐 **Distributed & Edge Learning**: Federated optimization, wireless edge learning, and non-coherent over-the-air aggregation.
 - 👁️ **Computational Imaging & Vision**: Multimodal perception, weak observation recovery, and passive non-line-of-sight reconstruction.
 - 🤖 **Intelligent Systems**: Network-aware algorithm design and lightweight visual perception for robotics.
 - 🎮 **Off the Grid**: When AFK, you'll probably find me playing **Counter-Strike 2**.
-
----
-
-## 🐍 Contribution Calendar
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realyummy1/realyummy1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/realyummy1/realyummy1/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated snake eating the contribution graph" src="https://raw.githubusercontent.com/realyummy1/realyummy1/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
 
 ---
 
@@ -72,25 +59,41 @@ I am a third-year undergraduate pursuing dual degrees in **Computer Science** an
 
 ## 🛠️ Tech Stack & Tooling
 
-<div align="center">
+<div align="left">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,pytorch,opencv,ros,linux,ubuntu,git,latex,markdown&theme=dark" alt="Tech Stack" />
-</a>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white) |
+| **ML & Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Robotics & Platforms** | ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Scientific Writing** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
 
 </div>
 
 ---
 
-## 📊 GitHub Overview
+## 📊 Dynamic Stats & Activity
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realyummy1&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_rank=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realyummy1&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=realyummy1&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Guanheng's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realyummy1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realyummy1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
+
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realyummy1/realyummy1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/realyummy1/realyummy1/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake eating the contribution graph" src="https://raw.githubusercontent.com/realyummy1/realyummy1/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br>
 <sub><i>"Building reliable intelligent systems, one experiment and one round at a time."</i></sub>
 
 </div>
