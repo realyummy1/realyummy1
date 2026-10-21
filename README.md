@@ -82,16 +82,11 @@ I focus on developing reliable learning algorithms and intelligent systems for d
 </div>
 
 ---
-
-## 📊 Dynamic Stats & Activity
-div align="center">
+## 📊 GitHub Overview
+<div align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realyummy1&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_rank=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realyummy1&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 <sub><i>"Building reliable intelligent systems, one experiment and one round at a time."</i></sub>
-</div>
-
-<sub><i>"Building reliable intelligent systems, one experiment and one round at a time."</i></sub>
-
 </div>
