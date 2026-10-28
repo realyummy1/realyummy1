@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Guanheng Cheng (成冠衡) 👋
+# Hi, I'm Guanheng Cheng  👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2E90FA&center=true&vCenter=true&width=750&lines=CS+%26+Robotics+Undergraduate+%40+OUC+%26+Heriot-Watt;Federated+Optimization+%E2%80%A2+Wireless+Edge+Learning;Computational+Imaging+%E2%80%A2+Multimodal+Perception;Building+reliable+and+collaborative+intelligent+systems)](https://github.com/realyummy1)
 
